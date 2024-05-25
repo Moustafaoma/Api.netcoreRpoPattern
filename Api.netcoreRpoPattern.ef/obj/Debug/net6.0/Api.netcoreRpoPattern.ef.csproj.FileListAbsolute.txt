@@ -1,0 +1,17 @@
+D:\Back -End courses\My Project CV and GitHup\Api.netcoreRpoPattern\Api.netcoreRpoPattern.ef\bin\Debug\net6.0\Api.netcoreRpoPattern.ef.deps.json
+D:\Back -End courses\My Project CV and GitHup\Api.netcoreRpoPattern\Api.netcoreRpoPattern.ef\bin\Debug\net6.0\Api.netcoreRpoPattern.ef.runtimeconfig.json
+D:\Back -End courses\My Project CV and GitHup\Api.netcoreRpoPattern\Api.netcoreRpoPattern.ef\bin\Debug\net6.0\Api.netcoreRpoPattern.ef.dll
+D:\Back -End courses\My Project CV and GitHup\Api.netcoreRpoPattern\Api.netcoreRpoPattern.ef\bin\Debug\net6.0\Api.netcoreRpoPattern.ef.pdb
+D:\Back -End courses\My Project CV and GitHup\Api.netcoreRpoPattern\Api.netcoreRpoPattern.ef\obj\Debug\net6.0\Api.netcoreRpoPattern.ef.csproj.AssemblyReference.cache
+D:\Back -End courses\My Project CV and GitHup\Api.netcoreRpoPattern\Api.netcoreRpoPattern.ef\obj\Debug\net6.0\Api.netcoreRpoPattern.ef.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back -End courses\My Project CV and GitHup\Api.netcoreRpoPattern\Api.netcoreRpoPattern.ef\obj\Debug\net6.0\Api.netcoreRpoPattern.ef.AssemblyInfoInputs.cache
+D:\Back -End courses\My Project CV and GitHup\Api.netcoreRpoPattern\Api.netcoreRpoPattern.ef\obj\Debug\net6.0\Api.netcoreRpoPattern.ef.AssemblyInfo.cs
+D:\Back -End courses\My Project CV and GitHup\Api.netcoreRpoPattern\Api.netcoreRpoPattern.ef\obj\Debug\net6.0\Api.netcoreRpoPattern.ef.csproj.CoreCompileInputs.cache
+D:\Back -End courses\My Project CV and GitHup\Api.netcoreRpoPattern\Api.netcoreRpoPattern.ef\obj\Debug\net6.0\Api.netcoreRpoPattern.ef.dll
+D:\Back -End courses\My Project CV and GitHup\Api.netcoreRpoPattern\Api.netcoreRpoPattern.ef\obj\Debug\net6.0\refint\Api.netcoreRpoPattern.ef.dll
+D:\Back -End courses\My Project CV and GitHup\Api.netcoreRpoPattern\Api.netcoreRpoPattern.ef\obj\Debug\net6.0\Api.netcoreRpoPattern.ef.pdb
+D:\Back -End courses\My Project CV and GitHup\Api.netcoreRpoPattern\Api.netcoreRpoPattern.ef\obj\Debug\net6.0\Api.netcoreRpoPattern.ef.genruntimeconfig.cache
+D:\Back -End courses\My Project CV and GitHup\Api.netcoreRpoPattern\Api.netcoreRpoPattern.ef\obj\Debug\net6.0\ref\Api.netcoreRpoPattern.ef.dll
+D:\Back -End courses\My Project CV and GitHup\Api.netcoreRpoPattern\Api.netcoreRpoPattern.ef\bin\Debug\net6.0\Api.netcoreRpoPattern.core.dll
+D:\Back -End courses\My Project CV and GitHup\Api.netcoreRpoPattern\Api.netcoreRpoPattern.ef\bin\Debug\net6.0\Api.netcoreRpoPattern.core.pdb
+D:\Back -End courses\My Project CV and GitHup\Api.netcoreRpoPattern\Api.netcoreRpoPattern.ef\obj\Debug\net6.0\Api.netc.AA447836.Up2Date

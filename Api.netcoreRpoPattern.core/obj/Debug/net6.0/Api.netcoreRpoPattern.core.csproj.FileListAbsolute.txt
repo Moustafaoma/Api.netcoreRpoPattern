@@ -1,0 +1,12 @@
+D:\Back -End courses\My Project CV and GitHup\Api.netcoreRpoPattern\Api.netcoreRpoPattern.core\bin\Debug\net6.0\Api.netcoreRpoPattern.core.deps.json
+D:\Back -End courses\My Project CV and GitHup\Api.netcoreRpoPattern\Api.netcoreRpoPattern.core\bin\Debug\net6.0\Api.netcoreRpoPattern.core.dll
+D:\Back -End courses\My Project CV and GitHup\Api.netcoreRpoPattern\Api.netcoreRpoPattern.core\bin\Debug\net6.0\Api.netcoreRpoPattern.core.pdb
+D:\Back -End courses\My Project CV and GitHup\Api.netcoreRpoPattern\Api.netcoreRpoPattern.core\obj\Debug\net6.0\Api.netcoreRpoPattern.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back -End courses\My Project CV and GitHup\Api.netcoreRpoPattern\Api.netcoreRpoPattern.core\obj\Debug\net6.0\Api.netcoreRpoPattern.core.AssemblyInfoInputs.cache
+D:\Back -End courses\My Project CV and GitHup\Api.netcoreRpoPattern\Api.netcoreRpoPattern.core\obj\Debug\net6.0\Api.netcoreRpoPattern.core.AssemblyInfo.cs
+D:\Back -End courses\My Project CV and GitHup\Api.netcoreRpoPattern\Api.netcoreRpoPattern.core\obj\Debug\net6.0\Api.netcoreRpoPattern.core.csproj.CoreCompileInputs.cache
+D:\Back -End courses\My Project CV and GitHup\Api.netcoreRpoPattern\Api.netcoreRpoPattern.core\obj\Debug\net6.0\Api.netcoreRpoPattern.core.dll
+D:\Back -End courses\My Project CV and GitHup\Api.netcoreRpoPattern\Api.netcoreRpoPattern.core\obj\Debug\net6.0\refint\Api.netcoreRpoPattern.core.dll
+D:\Back -End courses\My Project CV and GitHup\Api.netcoreRpoPattern\Api.netcoreRpoPattern.core\obj\Debug\net6.0\Api.netcoreRpoPattern.core.pdb
+D:\Back -End courses\My Project CV and GitHup\Api.netcoreRpoPattern\Api.netcoreRpoPattern.core\obj\Debug\net6.0\ref\Api.netcoreRpoPattern.core.dll
+D:\Back -End courses\My Project CV and GitHup\Api.netcoreRpoPattern\Api.netcoreRpoPattern.core\obj\Debug\net6.0\Api.netcoreRpoPattern.core.csproj.AssemblyReference.cache
