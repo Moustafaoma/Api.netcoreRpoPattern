@@ -1,41 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\",
+  "WorkspaceRootPath": "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FF24659-0038-4F3F-9FC8-DE4597A85F99}|Api.netcoreRpoPattern.ef\\Api.netcoreRpoPattern.ef.csproj|d:\\back -end courses\\my project cv and githup\\api.netcorerpopattern\\api.netcorerpopattern.ef\\repositories\\basegenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FF24659-0038-4F3F-9FC8-DE4597A85F99}|Api.netcoreRpoPattern.ef\\Api.netcoreRpoPattern.ef.csproj|d:\\iti .net 4 months\\git iti\\api.netcorerpopattern\\api.netcorerpopattern.ef\\repositories\\basegenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FF24659-0038-4F3F-9FC8-DE4597A85F99}|Api.netcoreRpoPattern.ef\\Api.netcoreRpoPattern.ef.csproj|solutionrelative:api.netcorerpopattern.ef\\repositories\\basegenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{507BACB1-4018-46B1-84D1-0B3FDC6497E9}|Api.netcoreRpoPattern.core\\Api.netcoreRpoPattern.core.csproj|D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\api.netcorerpopattern.core\\data\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{507BACB1-4018-46B1-84D1-0B3FDC6497E9}|Api.netcoreRpoPattern.core\\Api.netcoreRpoPattern.core.csproj|D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\api.netcorerpopattern.core\\data\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{507BACB1-4018-46B1-84D1-0B3FDC6497E9}|Api.netcoreRpoPattern.core\\Api.netcoreRpoPattern.core.csproj|solutionrelative:api.netcorerpopattern.core\\data\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{507BACB1-4018-46B1-84D1-0B3FDC6497E9}|Api.netcoreRpoPattern.core\\Api.netcoreRpoPattern.core.csproj|D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\api.netcorerpopattern.core\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{507BACB1-4018-46B1-84D1-0B3FDC6497E9}|Api.netcoreRpoPattern.core\\Api.netcoreRpoPattern.core.csproj|D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\api.netcorerpopattern.core\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{507BACB1-4018-46B1-84D1-0B3FDC6497E9}|Api.netcoreRpoPattern.core\\Api.netcoreRpoPattern.core.csproj|solutionrelative:api.netcorerpopattern.core\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C72B6783-756C-4C36-871A-CF273CB6591D}|Api.netcoreRpoPattern\\Api.netcoreRpoPattern.csproj|D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\api.netcorerpopattern\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C72B6783-756C-4C36-871A-CF273CB6591D}|Api.netcoreRpoPattern\\Api.netcoreRpoPattern.csproj|D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\api.netcorerpopattern\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C72B6783-756C-4C36-871A-CF273CB6591D}|Api.netcoreRpoPattern\\Api.netcoreRpoPattern.csproj|solutionrelative:api.netcorerpopattern\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{507BACB1-4018-46B1-84D1-0B3FDC6497E9}|Api.netcoreRpoPattern.core\\Api.netcoreRpoPattern.core.csproj|D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\api.netcorerpopattern.core\\interfaces\\ibasegenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{507BACB1-4018-46B1-84D1-0B3FDC6497E9}|Api.netcoreRpoPattern.core\\Api.netcoreRpoPattern.core.csproj|D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\api.netcorerpopattern.core\\interfaces\\ibasegenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{507BACB1-4018-46B1-84D1-0B3FDC6497E9}|Api.netcoreRpoPattern.core\\Api.netcoreRpoPattern.core.csproj|solutionrelative:api.netcorerpopattern.core\\interfaces\\ibasegenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C72B6783-756C-4C36-871A-CF273CB6591D}|Api.netcoreRpoPattern\\Api.netcoreRpoPattern.csproj|D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\api.netcorerpopattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C72B6783-756C-4C36-871A-CF273CB6591D}|Api.netcoreRpoPattern\\Api.netcoreRpoPattern.csproj|D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\api.netcorerpopattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C72B6783-756C-4C36-871A-CF273CB6591D}|Api.netcoreRpoPattern\\Api.netcoreRpoPattern.csproj|solutionrelative:api.netcorerpopattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C72B6783-756C-4C36-871A-CF273CB6591D}|Api.netcoreRpoPattern\\Api.netcoreRpoPattern.csproj|D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\api.netcorerpopattern\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C72B6783-756C-4C36-871A-CF273CB6591D}|Api.netcoreRpoPattern\\Api.netcoreRpoPattern.csproj|D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\api.netcorerpopattern\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C72B6783-756C-4C36-871A-CF273CB6591D}|Api.netcoreRpoPattern\\Api.netcoreRpoPattern.csproj|solutionrelative:api.netcorerpopattern\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{507BACB1-4018-46B1-84D1-0B3FDC6497E9}|Api.netcoreRpoPattern.core\\Api.netcoreRpoPattern.core.csproj|D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\api.netcorerpopattern.core\\dtos\\bookdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{507BACB1-4018-46B1-84D1-0B3FDC6497E9}|Api.netcoreRpoPattern.core\\Api.netcoreRpoPattern.core.csproj|D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\api.netcorerpopattern.core\\dtos\\bookdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{507BACB1-4018-46B1-84D1-0B3FDC6497E9}|Api.netcoreRpoPattern.core\\Api.netcoreRpoPattern.core.csproj|solutionrelative:api.netcorerpopattern.core\\dtos\\bookdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{507BACB1-4018-46B1-84D1-0B3FDC6497E9}|Api.netcoreRpoPattern.core\\Api.netcoreRpoPattern.core.csproj|D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\api.netcorerpopattern.core\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{507BACB1-4018-46B1-84D1-0B3FDC6497E9}|Api.netcoreRpoPattern.core\\Api.netcoreRpoPattern.core.csproj|D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\api.netcorerpopattern.core\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{507BACB1-4018-46B1-84D1-0B3FDC6497E9}|Api.netcoreRpoPattern.core\\Api.netcoreRpoPattern.core.csproj|solutionrelative:api.netcorerpopattern.core\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -52,9 +52,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Author.cs",
-              "DocumentMoniker": "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\Data\\Author.cs",
+              "DocumentMoniker": "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\Data\\Author.cs",
               "RelativeDocumentMoniker": "Api.netcoreRpoPattern.core\\Data\\Author.cs",
-              "ToolTip": "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\Data\\Author.cs",
+              "ToolTip": "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\Data\\Author.cs",
               "RelativeToolTip": "Api.netcoreRpoPattern.core\\Data\\Author.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -64,9 +64,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Book.cs",
-              "DocumentMoniker": "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\Data\\Book.cs",
+              "DocumentMoniker": "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\Data\\Book.cs",
               "RelativeDocumentMoniker": "Api.netcoreRpoPattern.core\\Data\\Book.cs",
-              "ToolTip": "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\Data\\Book.cs",
+              "ToolTip": "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\Data\\Book.cs",
               "RelativeToolTip": "Api.netcoreRpoPattern.core\\Data\\Book.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -76,9 +76,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "BookDetailsDTO.cs",
-              "DocumentMoniker": "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\DTOs\\BookDetailsDTO.cs",
+              "DocumentMoniker": "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\DTOs\\BookDetailsDTO.cs",
               "RelativeDocumentMoniker": "Api.netcoreRpoPattern.core\\DTOs\\BookDetailsDTO.cs",
-              "ToolTip": "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\DTOs\\BookDetailsDTO.cs",
+              "ToolTip": "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\DTOs\\BookDetailsDTO.cs",
               "RelativeToolTip": "Api.netcoreRpoPattern.core\\DTOs\\BookDetailsDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -88,9 +88,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "BooksController.cs",
-              "DocumentMoniker": "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern\\Controllers\\BooksController.cs",
+              "DocumentMoniker": "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "Api.netcoreRpoPattern\\Controllers\\BooksController.cs",
-              "ToolTip": "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern\\Controllers\\BooksController.cs",
               "RelativeToolTip": "Api.netcoreRpoPattern\\Controllers\\BooksController.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAzwBUAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -100,9 +100,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "AuthorsController.cs",
-              "DocumentMoniker": "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern\\Controllers\\AuthorsController.cs",
+              "DocumentMoniker": "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern\\Controllers\\AuthorsController.cs",
               "RelativeDocumentMoniker": "Api.netcoreRpoPattern\\Controllers\\AuthorsController.cs",
-              "ToolTip": "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern\\Controllers\\AuthorsController.cs",
+              "ToolTip": "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern\\Controllers\\AuthorsController.cs",
               "RelativeToolTip": "Api.netcoreRpoPattern\\Controllers\\AuthorsController.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAQwCIAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -112,9 +112,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern\\Program.cs",
+              "DocumentMoniker": "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern\\Program.cs",
               "RelativeDocumentMoniker": "Api.netcoreRpoPattern\\Program.cs",
-              "ToolTip": "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern\\Program.cs",
+              "ToolTip": "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern\\Program.cs",
               "RelativeToolTip": "Api.netcoreRpoPattern\\Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -124,11 +124,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BaseGenericRepo.cs",
-              "DocumentMoniker": "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.ef\\Repositories\\BaseGenericRepo.cs",
+              "DocumentMoniker": "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.ef\\Repositories\\BaseGenericRepo.cs",
               "RelativeDocumentMoniker": "Api.netcoreRpoPattern.ef\\Repositories\\BaseGenericRepo.cs",
-              "ToolTip": "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.ef\\Repositories\\BaseGenericRepo.cs",
+              "ToolTip": "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.ef\\Repositories\\BaseGenericRepo.cs",
               "RelativeToolTip": "Api.netcoreRpoPattern.ef\\Repositories\\BaseGenericRepo.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAAAAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA0AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-12-04T17:37:15.516Z",
               "EditorCaption": ""
@@ -137,9 +137,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "IBaseGenericRepo.cs",
-              "DocumentMoniker": "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\Interfaces\\IBaseGenericRepo.cs",
+              "DocumentMoniker": "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\Interfaces\\IBaseGenericRepo.cs",
               "RelativeDocumentMoniker": "Api.netcoreRpoPattern.core\\Interfaces\\IBaseGenericRepo.cs",
-              "ToolTip": "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\Interfaces\\IBaseGenericRepo.cs",
+              "ToolTip": "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\Interfaces\\IBaseGenericRepo.cs",
               "RelativeToolTip": "Api.netcoreRpoPattern.core\\Interfaces\\IBaseGenericRepo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -149,9 +149,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "MappingProfile.cs",
-              "DocumentMoniker": "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\Helpers\\MappingProfile.cs",
+              "DocumentMoniker": "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\Helpers\\MappingProfile.cs",
               "RelativeDocumentMoniker": "Api.netcoreRpoPattern.core\\Helpers\\MappingProfile.cs",
-              "ToolTip": "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\Helpers\\MappingProfile.cs",
+              "ToolTip": "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\Helpers\\MappingProfile.cs",
               "RelativeToolTip": "Api.netcoreRpoPattern.core\\Helpers\\MappingProfile.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Api.netcoreRpoPattern.ef")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44c9a0e73aabc2f9a490a5c59cdf859babf98dd2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Api.netcoreRpoPattern.ef")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Api.netcoreRpoPattern.ef")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

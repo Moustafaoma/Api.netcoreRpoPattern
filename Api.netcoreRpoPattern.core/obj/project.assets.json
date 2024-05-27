@@ -127,11 +127,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\Api.netcoreRpoPattern.core.csproj",
+      "projectUniqueName": "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\Api.netcoreRpoPattern.core.csproj",
       "projectName": "Api.netcoreRpoPattern.core",
-      "projectPath": "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\Api.netcoreRpoPattern.core.csproj",
+      "projectPath": "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\Api.netcoreRpoPattern.core.csproj",
       "packagesPath": "C:\\Users\\ascom\\.nuget\\packages\\",
-      "outputPath": "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\obj\\",
+      "outputPath": "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

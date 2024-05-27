@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L8aAHhv/VJk1cQG5UdWwRDaXVVR3ZnH2H2dXmEsxJWfop0mOE/9fX3SZoDg4jzBRd6u6qtDvsyT6c1V58FttEw==",
+  "dgSpecHash": "j0KeB2dQtQ1GmotRT2oafkZFkSAB/CpNOf5n/0jHnwT5m4H2pBF2lPaqBd3gGToUEx3kmRixIkW364GNGUdtxg==",
   "success": true,
-  "projectFilePath": "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.ef\\Api.netcoreRpoPattern.ef.csproj",
+  "projectFilePath": "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.ef\\Api.netcoreRpoPattern.ef.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ascom\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ascom\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",

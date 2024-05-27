@@ -11,6 +11,7 @@ using System.Threading.Tasks;
 
 namespace Api.netcoreRpoPattern.ef.Repositories
 {
+	//this is comment
 	public class BaseGenericRepo<T> : IBaseGenericRepo<T> where T : class
 	{
 		protected readonly ApplicationDbContext _context;

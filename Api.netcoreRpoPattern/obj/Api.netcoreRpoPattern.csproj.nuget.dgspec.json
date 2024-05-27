@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.csproj": {}
+    "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.csproj": {}
   },
   "projects": {
-    "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\Api.netcoreRpoPattern.core.csproj": {
+    "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\Api.netcoreRpoPattern.core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\Api.netcoreRpoPattern.core.csproj",
+        "projectUniqueName": "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\Api.netcoreRpoPattern.core.csproj",
         "projectName": "Api.netcoreRpoPattern.core",
-        "projectPath": "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\Api.netcoreRpoPattern.core.csproj",
+        "projectPath": "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\Api.netcoreRpoPattern.core.csproj",
         "packagesPath": "C:\\Users\\ascom\\.nuget\\packages\\",
-        "outputPath": "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\obj\\",
+        "outputPath": "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -74,14 +74,14 @@
         }
       }
     },
-    "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.ef\\Api.netcoreRpoPattern.ef.csproj": {
+    "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.ef\\Api.netcoreRpoPattern.ef.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.ef\\Api.netcoreRpoPattern.ef.csproj",
+        "projectUniqueName": "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.ef\\Api.netcoreRpoPattern.ef.csproj",
         "projectName": "Api.netcoreRpoPattern.ef",
-        "projectPath": "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.ef\\Api.netcoreRpoPattern.ef.csproj",
+        "projectPath": "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.ef\\Api.netcoreRpoPattern.ef.csproj",
         "packagesPath": "C:\\Users\\ascom\\.nuget\\packages\\",
-        "outputPath": "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.ef\\obj\\",
+        "outputPath": "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.ef\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -102,8 +102,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\Api.netcoreRpoPattern.core.csproj": {
-                "projectPath": "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\Api.netcoreRpoPattern.core.csproj"
+              "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\Api.netcoreRpoPattern.core.csproj": {
+                "projectPath": "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\Api.netcoreRpoPattern.core.csproj"
               }
             }
           }
@@ -158,14 +158,14 @@
         }
       }
     },
-    "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.csproj": {
+    "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.csproj",
+        "projectUniqueName": "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.csproj",
         "projectName": "Api.netcoreRpoPattern",
-        "projectPath": "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.csproj",
+        "projectPath": "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.csproj",
         "packagesPath": "C:\\Users\\ascom\\.nuget\\packages\\",
-        "outputPath": "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern\\obj\\",
+        "outputPath": "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -186,8 +186,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.ef\\Api.netcoreRpoPattern.ef.csproj": {
-                "projectPath": "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.ef\\Api.netcoreRpoPattern.ef.csproj"
+              "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.ef\\Api.netcoreRpoPattern.ef.csproj": {
+                "projectPath": "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.ef\\Api.netcoreRpoPattern.ef.csproj"
               }
             }
           }

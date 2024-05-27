@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7Fb7pQ46AXO2q9vH4k9xw33Ug8Y2BF1yBQdq8dSQZRWpf6xrDXuNmnUd6f46ZplCPOa7Hs36/kno4+f58ubgyg==",
+  "dgSpecHash": "evf5FURwZegv6hFbmJug2Bex5OqyCCbh3Imj4Q/rf0DT+ldvo7ofQX02nJYapMklhvKZYtPGpEXm5ihqygAGHQ==",
   "success": true,
-  "projectFilePath": "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.csproj",
+  "projectFilePath": "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ascom\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ascom\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

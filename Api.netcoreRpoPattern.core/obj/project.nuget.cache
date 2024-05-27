@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IctvSGf4UndzHHBQlYyWi3vtkfX70LXgQhre45CKambVoGR/N1kSlZCOeryEKlx8YLUEaB5K5rC0usQ3WrFAAw==",
+  "dgSpecHash": "ShmRUEmn/nZeLDiKe/13uypAlDR5uKfQ+vjQl0Ft69jVd+PdmANVVTPREb8FvdpP0qn+8KTjvpEhV7+oG09KHw==",
   "success": true,
-  "projectFilePath": "D:\\Back -End courses\\My Project CV and GitHup\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\Api.netcoreRpoPattern.core.csproj",
+  "projectFilePath": "D:\\iti .net 4 months\\Git Iti\\Api.netcoreRpoPattern\\Api.netcoreRpoPattern.core\\Api.netcoreRpoPattern.core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ascom\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ascom\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
